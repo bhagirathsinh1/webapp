@@ -20,4 +20,4 @@ jobs:
         with:
           repoToken: '${{ secrets.TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CALCULATOR_EEC6E }}'
-          projectId: webapp-1
+          projectId: calculator-eec6e
