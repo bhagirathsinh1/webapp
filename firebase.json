@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "webapp-1",
     "public": "yes",
     "ignore": [
       "firebase.json",
